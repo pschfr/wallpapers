@@ -1,12 +1,18 @@
 # Wallpapers
-This repo contains a small collection of wallpapers I've created.
-More will be added soon.
+This repo contains a small collection of wallpapers I've created!
 
 <details>
 <summary>Grid</summary>
 <img src="/grid/grid_grey.png" />
 <img src="/grid/grid.png" />
 <img src="/grid/grid_red.png" />
+</details>
+
+<details>
+<summary>Gradient</summary>
+<img src="/gradient/grey.jpg" />
+<img src="/gradient/blue.jpg" />
+<img src="/gradient/red.jpg" />
 </details>
 
 <details>
